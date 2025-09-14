@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Bossaert Insights"
+paginate = 10
+
+[params]
+  description = "Forward-looking research for investment and wealth management leaders."
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
